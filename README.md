@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I'm a software engineer, instructor and facilitator.
 
-Postgraduate in Information Technology Management, I wrote an [article](https://drive.google.com/file/d/1SV5MvFJ3q2fqAgOC_FNdvo_YnLoXWiEu/view?usp=sharing). As a software engineer, some of my work can be seen [at my site](https://carlohcs.me/engenheiro-de-software) or here on GitHub.
+Postgraduate in Information Technology Management, I wrote an [article](https://drive.google.com/file/d/1SV5MvFJ3q2fqAgOC_FNdvo_YnLoXWiEu/view?usp=sharing). As a software engineer, some of my work can be seen [at my site](https://carlohcs.me/) or here on GitHub.
 
-Lately I've been venturing to [write](https://medium.com/@carlohcs), to [lecture](https://carlohcs.me/palestras) and to [play guitar](https://www.youtube.com/user/carlohcs).
+Lately I've been venturing to [write](https://medium.com/@carlohcs) and to [play guitar](https://www.youtube.com/user/carlohcs).
 
 I believe everyone should have a [personal mission](https://missaopessoal.com.br).
 
