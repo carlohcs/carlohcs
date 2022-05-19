@@ -17,24 +17,21 @@ Here are some ideas to get you started:
 
 I'm a software engineer, instructor and facilitator.
 
-Postgraduate in Information Technology Management, I wrote an [article](https://drive.google.com/file/d/1SV5MvFJ3q2fqAgOC_FNdvo_YnLoXWiEu/view?usp=sharing). As a software engineer, some of my work can be seen [at my site](https://carlohcs.me/) or here on GitHub.
+Postgraduate in Information Technology Management, I wrote an [article](https://drive.google.com/file/d/1SV5MvFJ3q2fqAgOC_FNdvo_YnLoXWiEu/view?usp=sharing). As a software engineer, some of my work can be seen at [my portfolio](https://carlohcs.me/) or here.
 
-Lately I've been venturing to [write](https://medium.com/@carlohcs) and to [play guitar](https://www.youtube.com/user/carlohcs).
+I believe everyone should have a [personal mission](https://missaopessoal.com.br) - Try it! (in portuguese)
 
-I believe everyone should have a [personal mission](https://missaopessoal.com.br).
+Maybe you can like to listen [my songs](https://open.spotify.com/artist/4Kv6CaJSSTkaD9QHgjvrIn?si=caiXHl7gTIO8eckOU1lsMw) or see things that I [wrote](https://medium.com/@carlohcs) or following me to see some [guitar videos](https://www.youtube.com/user/carlohcs).
 
 Other informations:
 
-- Currently working at [UOL - Universo Online](https://uol.com.br)</a>
-- Living in Diadema, SP - Brazil 🇧🇷 (But I'm interesting move to another country.)
-- Software Engineer for 10+ years.
+- Currently working at [GoDaddy](https://www.godaddy.com/)</a>
+- Living in São Paulo, SP - Brazil 🇧🇷 (But I'm interesting move to another country.)
+- Software Engineer for 11+ years.
 
 ### Technologies I've had contact with:
 JavaScript: jQuery, React, Backbone, Angular, Node, Vue, QUnit, Jasmine, Jest, AVA, Puppeteer. PHP: Laravel, Zend, Symfony, Silex, Lumen, PHPUnit, Doctrine.
 Other: AWS, Git, Bitbucket, Linux, MacOS, VIm.
-
-### Contact
-- 📱 +55 (11) 96880-3135
 
 ### Social
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/carlohcs/)](https://www.linkedin.com/in/carlohcs/)
